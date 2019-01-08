@@ -1,0 +1,54 @@
+{% extends "form/base.html" %}
+
+{% block content %}
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+</head>
+
+{% load static %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'form/style.css' %}">
+<body>
+
+<h1>Ecouter de la musique sur Youtube, quel impact ? </h1>
+
+<form method="post">
+    {% csrf_token %}
+    <h3>Quel appareil utilisez vous ?</h3>
+    <p>
+        <div class="radio">
+            <input type="radio" name="appareil" id = "laptop" value = "laptop"/> <label class="form-check-label"> Laptop<br  /> </label>
+        </div>
+        <div class="radio">
+            <input type="radio" name="appareil" id = "smartphone" value = "smartphone" />  <label class="form-check-label">  Smartphone<br />  </label>
+        </div>
+            
+        
+    </p>
+    <h3>Quelle type de connection internet utilisez vous ?</h3>
+    <p>
+        <div class="radio">
+            <input type="radio" name="connection" id = "filaire" value = "filaire"/> <label class="form-check-label">  Connection filaire<br  />  </label>
+        </div>
+        <div class="radio">
+            <input type="radio" name="connection" id = "wifi" value = "wifi" /> <label class="form-check-label">  Connection WiFi<br />  </label>
+        </div>
+        <div class="radio">
+            <input type="radio" name="connection" id = "mobile" value = "mobile"/> <label class="form-check-label"> R&eacute;seau mobile<br/>  </label>
+        </div>
+    </p>
+
+    <h3>Combien de temps passez-vous &agrave; &eacute;couter de la musique, sur Youtube, quotidiennement ? </h3>
+    <p>
+        <div class="form-group row">
+            <input class="form-control" type="number" name="heure"> heure(s) et <input class="form-control" type="number" name="minute"> minute(s)
+        </div>
+                  
+        </p>
+    <input class="btn btn-outline-secondary" type="submit" value = "Quel est mon impact ?">
+</form>
+</body>
+
+{% endblock %}
