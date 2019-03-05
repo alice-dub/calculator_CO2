@@ -14,6 +14,11 @@ Smartphone = 1.1 * 10 ** -4 #kWh / min
 Laptop = 3.2 * 10 ** -4 #kWh / min
 
 
+def accueil(request):
+    template = loader.get_template('form/accueil.html')
+    context = {}
+    return HttpResponse(template.render(context, request))
+
 def index(request):
     try:
         appareil = request.POST['appareil']
