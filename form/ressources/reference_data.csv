@@ -1,0 +1,192 @@
+ID;Model;Phase;Device /Usage;Country;Internet provider;Indicator;Unit;Value ;Source;Source details
+1;REN;Production;Laptop;;;Unit Manufacturing Energy;MJ;6640;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+2;REN;Production;Smartphone;;;Unit Manufacturing Energy;MJ;717;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+3;REN;Production;Laptop;;;Unit Manufacturing Gas Emissions; kgCO2e;514;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+4;REN;Production;Smartphone;;;Unit Manufacturing Gas Emissions; kgCO2e;61.1;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+5;REN;Production;Server (The production of the Data Centre is only considered through the production of its servers.);;;Unit Manufacturing Gas Emissions; kgCO2e;588;ADEME (2012) (7206);ADEME (2012). Réalisation d'un Bilan des émissions de gaz à effet de serre -  Guide Sectoriel 2012 - TNIC. ADEME.
+6;REN;Production;Connected TV;;;Unit Manufacturing Gas Emissions; kgCO2e;441.2;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+7;REN;Production;Laptop;;;Gallium content;g;0.0076;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+8;REN;Production;Smartphone;;;Gallium content;g;4.00E-04;Greenpeace 2017 (732);Greenpeace (2017). From Smart to Senseless: The Global Impact of 10 Years of Smartphones. Feb. 2017.
+9;REN;Production;Smartphone;;;Gallium content;g;5.50E-04;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+10;REN;Production;Connected TV;;;Gallium content;g;0.2;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+11;REN;Production;Laptop;;;Indium content;g;0.0175;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+12;REN;Production;Smartphone;;;Indium content;g;0.01;Greenpeace 2017 (732);Greenpeace (2017). From Smart to Senseless: The Global Impact of 10 Years of Smartphones. Feb. 2017.
+13;REN;Production;Smartphone;;;Indium content;g;0.00397;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+14;REN;Production;Connected TV;;;Indium content;g;12.1;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+15;REN;Production;Laptop;;;Tantalum content;g;0.54;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+16;REN;Production;Smartphone;;;Tantalum content;g;0.045;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+17;REN;Production;Laptop;;;Copper content;g;170.7;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+18;REN;Production;Smartphone;;;Copper content;g;15.12;Greenpeace 2017 (732);Greenpeace (2017). From Smart to Senseless: The Global Impact of 10 Years of Smartphones. Feb. 2017.
+19;REN;Production;Smartphone;;;Copper content;g;24.2;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+20;REN;Production;Connected TV;;;Copper content;g;885;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+21;REN;Production;Laptop;;;Cobalt content;g;12.1;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+22;REN;Production;Smartphone;;;Cobalt content;g;5.38;Greenpeace 2017 (732);Greenpeace (2017). From Smart to Senseless: The Global Impact of 10 Years of Smartphones. Feb. 2017.
+23;REN;Production;Smartphone;;;Cobalt content;g;6.2;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+24;REN;Production;Laptop;;;Palladium content;g;0.00098;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+25;REN;Production;Smartphone;;;Palladium content;g;0.01;Greenpeace 2017 (732);Greenpeace (2017). From Smart to Senseless: The Global Impact of 10 Years of Smartphones. Feb. 2017.
+26;REN;Production;Smartphone;;;Palladium content;g;3.6E-05;Samuli Vaija;"Laptop: data from ""Bill of Material"", from EIME Software (T3 2013 model, LCD screen 14"", SSD 256 GB) -- Smartphone: data from LCA and Materials Declaration (2014 model, LCD screen 4.5"", NAND 32 GB) -- Connected TV: adapted data from Environmental Product Declaration Samsung (TV LCD with backlight LED, 55"")"
+27;REN;Run;Smartphone;;;Unit Electricity Consumption;kWh/year;5;Andrae (405 & 405[43]);"Andrae, A.S.G., Edler, T. (2015). On Global Usage of Communication Technology: Trends to 2030. Challenges. 30 Apr. 2015.
+Andrae, A.S.G., Corcoran, P., M. (2013). Emerging Trends in Electricity Consumption for Consumer ICT."
+28;REN;Run;Smartphone;;;Unit Electricity Consumption;kWh/year;7.74;LCA Sony (308);Ercan, M. et al. (2016). Life cycle assessment of a smartphone. Ericsson Research, Sony Mobile Communications. Paper published and presented at: ICT for Sustainability (ICT4S), Amsterdam, 30-31 August 2016.
+29;REN;Run;Smartphone;;;Unit Electricity Consumption;kWh/year;4;IEEE Spectrum (324);Vaclav, S. (2016). Your Phone Costs Energy—Even Before You Turn It On. IEEE Spectrum, May 2016.
+30;REN;Run;Smartphone;;;Unit Electricity Consumption;kWh/year;7;ADEME (7207);ADEME (2017). La Face Cachée du Numérique - Réduire les impacts du numérique sur l'environnement. ADEME. Juin 2017.
+31;REN;Run;Laptop;;;Unit Electricity Consumption;kWh/year;80;Andrae (405 & 405[43]);"Andrae, A.S.G., Edler, T. (2015). On Global Usage of Communication Technology: Trends to 2030. Challenges. 30 Apr. 2015.
+Andrae, A.S.G., Corcoran, P., M. (2013). Emerging Trends in Electricity Consumption for Consumer ICT."
+32;REN;Run;Laptop;;;Unit Electricity Consumption;kWh/year;13.23;LCA Dell (314);Shrivastava, P., Stutz, M. (2017). Carbon Footprint of a Dell Latitude E7440. Dell Environmental Affairs, Carbon Footprint Study, Ocrober 2013.
+33;REN;Run;Laptop;;;Unit Electricity Consumption;kWh/year;30;ADEME (7207);ADEME (2017). La Face Cachée du Numérique - Réduire les impacts du numérique sur l'environnement. ADEME. Juin 2017.
+34;REN;Run;Laptop;;;Unit Electricity Consumption;kWh/year;100;ADEME (7207);ADEME (2017). La Face Cachée du Numérique - Réduire les impacts du numérique sur l'environnement. ADEME. Juin 2017.
+35;REN;Run;Data Center;;;Unit Electricity Consumption;kWh/year;6444683.13641246;Calculated;127, 137
+36;REN;Run;Connected TV;;;Unit Electricity Consumption;kWh/year;99;Samsung HD, 55'' (316);"Samsung (2017). Energy Guide of the ""55"" Class J6201 Full HD LED TV"". EnergyGuide Label."
+37;REN;Run;Connected TV;;;Unit Electricity Consumption;kWh/year;106;Samsung 4K, 55'' (315);"Samsung (2017). Energy Guide of the ""55"" Class MU7000 4K UHD TV"". EnergyGuide Label."
+38;REN;Run;Connected TV;;;Unit Electricity Consumption;kWh/year;173;Sony 4K, 55'' & 65'' (317);"Sony (2017). Specifications of the ""X940E / X930E | LED | 4K Ultra HD | High Dynamic Range (HDR) | Smart TV (Android TV™)"" . https://www.sony.com/electronics/televisions/XBR-X930E-X940E-Series/specifications#features. Official Sony Website."
+39;REN;Run;Connected TV;;;Unit Electricity Consumption;kWh/year;215;Sony 4K, 55'' & 65'' (317);"Sony (2017). Specifications of the ""X940E / X930E | LED | 4K Ultra HD | High Dynamic Range (HDR) | Smart TV (Android TV™)"" . https://www.sony.com/electronics/televisions/XBR-X930E-X940E-Series/specifications#features. Official Sony Website."
+40;REN;Run;Connected TV;;;Unit Electricity Consumption;kWh/year;194.12307;Hischier FED TV, 40'' (318);Hischier, R. (2014). Life Cycle Assessment sSudy of a Field Emission Display Television Device. LCI Methodology and Databases.
+41;REN;Run;Residential Router;;;Unit Electricity Consumption;kWh/year;96.70359;Calculated (under the hypothesis of an active mode of modem 365.25 days per year and 24 hours per day);148
+44;REN;Run;;China;;Carbon intensity factor;kgCO2e/kWh;0.681;IEA (325);IEA (2016). CO2 Emissions from fuel combustion - Highlights. International Energy Agency. Statistics.
+45;REN;Run;;World;;Carbon intensity factor;kgCO2e/kWh;0.519;IEA (325);IEA (2016). CO2 Emissions from fuel combustion - Highlights. International Energy Agency. Statistics.
+46;REN;Run;;France;;Carbon intensity factor;kgCO2e/kWh;0.0348;EEA;CO2 Emission Intensity, European Environment Agency : https://www.eea.europa.eu/data-and-maps/daviz/co2-emission-intensity-3#tab-googlechartid_chart_11_filters=%7B%22rowFilters%22%3A%7B%7D%3B%22columnFilters%22%3A%7B%22pre_config_ugeo%22%3A%5B%22European%20Union%20(28%20countries)%22%5D%7D%7D
+47;REN;Run;;European Union;;Carbon intensity factor;kgCO2e/kWh;0.276;EEA;CO2 Emission Intensity, European Environment Agency : https://www.eea.europa.eu/data-and-maps/daviz/co2-emission-intensity-3#tab-googlechartid_chart_11_filters=%7B%22rowFilters%22%3A%7B%7D%3B%22columnFilters%22%3A%7B%22pre_config_ugeo%22%3A%5B%22European%20Union%20(28%20countries)%22%5D%7D%7D
+48;REN;Run;;United States;;Emissions from Electricity and Heat;MtCO2e;2125;IEA Materials;Excel tables from CO2 Emissions from fuel combustion - Highlight, by IEA : https://www.iea.org/publications/freepublications/publication/co2-emissions-from-fuel-combustion-highlights-2016.html
+49;REN;Run;;United States;;Electricity production;TWh;4256;EIA via Data Portal;"Data Portal by The Shift Project, using the ""US EIA Historical Satistics"" database : http://www.tsp-data-portal.org/Breakdown-of-Electricity-Capacity-by-Energy-Source#tspQvChart"
+50;REN;Run;;United States;;Electricity production;TWh;4363;BP;BP - Statistical Review of World Energy 2017 : https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html
+51;REN;Run;;United States;;Carbon intensity factor;kgCO2e/kWh;0.493;Calculated;48, 49, 50
+52;REN;Run;Laptop;China;;Gas emmissions per year – Minimum consumption hypothesis;kgCO2e/year;9.00963;Calculated;44, 32
+53;REN;Run;Laptop;World;;Gas emmissions per year – Minimum consumption hypothesis;kgCO2e/year;6.86637;Calculated;46, 32
+54;REN;Run;Laptop;France;;Gas emmissions per year – Minimum consumption hypothesis;kgCO2e/year;0.460404;Calculated;45, 32
+55;REN;Run;Laptop;European Union;;Gas emmissions per year – Minimum consumption hypothesis;kgCO2e/year;3.650157;Calculated;47, 32
+56;REN;Run;Laptop;United States;;Gas emmissions per year – Minimum consumption hypothesis;kgCO2e/year;6.52459406189101;Calculated;51, 32
+57;REN;Run;Laptop;China;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;38.0049075;Calculated;44, 31, 32, 33, 34
+58;REN;Run;Laptop;World;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;28.9640925;Calculated;46, 31, 32, 33, 34
+59;REN;Run;Laptop;France;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;1.942101;Calculated;45, 31, 32, 33, 34
+60;REN;Run;Laptop;European Union;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;15.39728925;Calculated;47, 31, 32, 33, 34
+61;REN;Run;Laptop;United States;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;27.522394792818;Calculated;51, 31, 32, 33, 34
+62;REN;Run;Laptop;China;;Gas emmissions per year – Maximum consumption hypothesis ;kgCO2e/year;68.1;Calculated;44, 34
+63;REN;Run;Laptop;World;;Gas emmissions per year – Maximum consumption hypothesis ;kgCO2e/year;51.9;Calculated;46, 34
+64;REN;Run;Laptop;France;;Gas emmissions per year – Maximum consumption hypothesis ;kgCO2e/year;3.48;Calculated;45, 34
+65;REN;Run;Laptop;European Union;;Gas emmissions per year – Maximum consumption hypothesis ;kgCO2e/year;27.59;Calculated;47, 34
+66;REN;Run;Laptop;United States;;Gas emmissions per year – Maximum consumption hypothesis ;kgCO2e/year;49.3166595758958;Calculated;51, 34
+67;REN;Run;Smartphone;China;;Gas emmissions per year – Minimum consumption hypothesis;kgCO2e/year;2.724;Calculated;44, 29
+68;REN;Run;Smartphone;World;;Gas emmissions per year – Minimum consumption hypothesis;kgCO2e/year;2.076;Calculated;46, 29
+69;REN;Run;Smartphone;France;;Gas emmissions per year – Minimum consumption hypothesis;kgCO2e/year;0.1392;Calculated;45, 29
+70;REN;Run;Smartphone;European Union;;Gas emmissions per year – Minimum consumption hypothesis;kgCO2e/year;1.1036;Calculated;47, 29
+71;REN;Run;Smartphone;United States;;Gas emmissions per year – Minimum consumption hypothesis;kgCO2e/year;1.97266638303583;Calculated;51, 29
+72;REN;Run;Smartphone;China;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;4.041735;Calculated;44, 27, 28, 29, 30
+73;REN;Run;Smartphone;World;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;3.080265;Calculated;46, 27, 28, 29, 30
+74;REN;Run;Smartphone;France;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;0.206538;Calculated;45, 27, 28, 29, 30
+75;REN;Run;Smartphone;European Union;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;1.6374665;Calculated;47, 27, 28, 29, 30
+76;REN;Run;Smartphone;United States;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;2.92694374582942;Calculated;51, 27, 28, 29, 30
+77;REN;Run;Smartphone;China;;Gas emmissions per year – Maximum consumption hypothesis ;kgCO2e/year;5.27094;Calculated;44, 28
+78;REN;Run;Smartphone;World;;Gas emmissions per year – Maximum consumption hypothesis ;kgCO2e/year;4.01706;Calculated;46, 28
+79;REN;Run;Smartphone;France;;Gas emmissions per year – Maximum consumption hypothesis ;kgCO2e/year;0.269352;Calculated;45, 28
+80;REN;Run;Smartphone;European Union;;Gas emmissions per year – Maximum consumption hypothesis ;kgCO2e/year;2.135466;Calculated;47, 28
+81;REN;Run;Smartphone;United States;;Gas emmissions per year – Maximum consumption hypothesis ;kgCO2e/year;3.81710945117433;Calculated;51, 28
+82;REN;Run;Connected TV;China;;Gas emmissions per year – Minimum consumption hypothesis;kgCO2e/year;67.419;Calculated;44, 36
+83;REN;Run;Connected TV;World;;Gas emmissions per year – Minimum consumption hypothesis;kgCO2e/year;51.381;Calculated;46, 36
+84;REN;Run;Connected TV;France;;Gas emmissions per year – Minimum consumption hypothesis;kgCO2e/year;3.4452;Calculated;45, 36
+85;REN;Run;Connected TV;European Union;;Gas emmissions per year – Minimum consumption hypothesis;kgCO2e/year;27.3141;Calculated;47, 36
+86;REN;Run;Connected TV;United States;;Gas emmissions per year – Minimum consumption hypothesis;kgCO2e/year;48.8234929801368;Calculated;51, 36
+87;REN;Run;Connected TV;China;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;107.206162134;Calculated;44, 36, 37, 38, 39, 40
+88;REN;Run;Connected TV;World;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;81.703374666;Calculated;46, 36, 37, 38, 39, 40
+89;REN;Run;Connected TV;France;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;5.4783765672;Calculated;45, 36, 37, 38, 39, 40
+90;REN;Run;Connected TV;European Union;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;43.4334510026;Calculated;47, 36, 37, 38, 39, 40
+91;REN;Run;Connected TV;United States;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;77.636560975048;Calculated;51, 36, 37, 38, 39, 40
+92;REN;Run;Connected TV;China;;Gas emmissions per year – Maximum consumption hypothesis ;kgCO2e/year;146.415;Calculated;44, 40
+93;REN;Run;Connected TV;World;;Gas emmissions per year – Maximum consumption hypothesis ;kgCO2e/year;111.585;Calculated;46, 40
+94;REN;Run;Connected TV;France;;Gas emmissions per year – Maximum consumption hypothesis ;kgCO2e/year;7.482;Calculated;45, 40
+95;REN;Run;Connected TV;European Union;;Gas emmissions per year – Maximum consumption hypothesis ;kgCO2e/year;59.3185;Calculated;47, 40
+96;REN;Run;Connected TV;United States;;Gas emmissions per year – Maximum consumption hypothesis ;kgCO2e/year;106.030818088176;Calculated;51, 40
+97;REN;Run;Data Center;China;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;4388829.21589689;Calculated;44, 35
+98;REN;Run;Data Center;World;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;3344790.54779807;Calculated;46, 35
+99;REN;Run;Data Center;France;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;224274.973147154;Calculated;45, 35
+100;REN;Run;Data Center;European Union;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;1778088.0773362;Calculated;47, 35
+101;REN;Run;Data Center;United States;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;3178302.4431297;Calculated;51, 35
+102;REN;Run;Residential Router;China;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;68.1;Calculated;44, 41
+103;REN;Run;Residential Router;World;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;51.9;Calculated;46, 41
+104;REN;Run;Residential Router;France;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;3.48;Calculated;45, 41
+105;REN;Run;Residential Router;European Union;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;27.59;Calculated;47, 41
+106;REN;Run;Residential Router;United States;;Gas emmissions per year – Average consumption hypothesis;kgCO2e/year;49.3166595758958;Calculated;51, 41
+107;REN;Run;Email;China;;Gas emmissions per year – Average consumption hypothesis;kgCO2e;0.000681;Calculated;44, 42
+108;REN;Run;Email;World;;Gas emmissions per year – Average consumption hypothesis;kgCO2e;0.000519;Calculated;46, 42
+109;REN;Run;Email;France;;Gas emmissions per year – Average consumption hypothesis;kgCO2e;3.48E-05;Calculated;45, 42
+110;REN;Run;Email;European Union;;Gas emmissions per year – Average consumption hypothesis;kgCO2e;0.0002759;Calculated;47, 42
+111;REN;Run;Email;United States;;Gas emmissions per year – Average consumption hypothesis;kgCO2e;0.000493166595759;Calculated;51, 42
+112;REN;Run;Online Video;China;;Gas emmissions per year – Average consumption hypothesis;kgCO2e;0.0681;Calculated;44, 43
+113;REN;Run;Online Video;World;;Gas emmissions per year – Average consumption hypothesis;kgCO2e;0.0519;Calculated;46, 43
+115;REN;Run;Online Video;France;;Gas emmissions per year – Average consumption hypothesis;kgCO2e;0.00348;Calculated;45, 43
+116;REN;Run;Online Video;European Union;;Gas emmissions per year – Average consumption hypothesis;kgCO2e;0.02759;Calculated;47, 43
+117;REN;Run;Online Video;United States;;Gas emmissions per year – Average consumption hypothesis;kgCO2e;0.049316659575896;Calculated;51, 43
+118;REN;Run;Laptop;;;Unit Electricity Consumption  – Minimum consumption hypothesis;kWh/year;13.23;Calculated;32
+119;REN;Run;Laptop;;;Unit Electricity Consumption  – Average consumption hypothesis;kWh/year;55.8075;Calculated;31, 32, 33, 34
+120;REN;Run;Laptop;;;Unit Electricity Consumption  – Maximum consumption hypothesis;kWh/year;100;Calculated;34
+121;REN;Run;Smartphone;;;Unit Electricity Consumption  – Minimum consumption hypothesis;kWh/year;4;Calculated;29
+122;REN;Run;Smartphone;;;Unit Electricity Consumption  – Average consumption hypothesis;kWh/year;5.935;Calculated;27, 28, 29, 30
+123;REN;Run;Smartphone;;;Unit Electricity Consumption  – Maximum consumption hypothesis;kWh/year;7.74;Calculated;28
+124;REN;Run;Connected TV;;;Unit Electricity Consumption  – Minimum consumption hypothesis;kWh/year;99;Calculated;36
+125;REN;Run;Connected TV;;;Unit Electricity Consumption  – Average consumption hypothesis;kWh/year;157.424614;Calculated;36, 37, 38, 39, 40
+126;REN;Run;Connected TV;;;Unit Electricity Consumption  – Maximum consumption hypothesis;kWh/year;215;Calculated;40
+127;REN;Run;Data Center;;;Total consumption of average data centre's servers.;kWh/year;3222341.56820623;Calculated;128, 129
+128;REN;Run;Data Center;;;Average consumption of one average data centre's server.;kWh/year/server;2142.85714285714;Calculated;130, 131
+129;REN;Run;Data Center;;;Servers count in the average data centre.;servers;1503.75939849624;Calculated;135, 137, 132
+130;REN;Run;Data Center;;;Total consumption of all US data centre's servers.;kWh/year;30000000000;Berkeley Lab (306);Shehabi, A., Smith, S.J., Horner, N., Azevedo, I., Brown, R., Koomey, J., Masanet, E., Sartor, D., Herrlin, M., Lintner, W. (2016). United States Data Center Energy Usage Report. Lawrence Berkeley National Laboratory, Berkeley, California. LBNL-1005775
+131;REN;Run;Data Center;;;Total servers count in US data centres.;servers;14000000;Berkeley Lab (306);Shehabi, A., Smith, S.J., Horner, N., Azevedo, I., Brown, R., Koomey, J., Masanet, E., Sartor, D., Herrlin, M., Lintner, W. (2016). United States Data Center Energy Usage Report. Lawrence Berkeley National Laboratory, Berkeley, California. LBNL-1005775
+132;REN;Run;Data Center;;;Average power capacity of one average data centre's server.;kW/server;0.3325;Berkeley Lab (306);Shehabi, A., Smith, S.J., Horner, N., Azevedo, I., Brown, R., Koomey, J., Masanet, E., Sartor, D., Herrlin, M., Lintner, W. (2016). United States Data Center Energy Usage Report. Lawrence Berkeley National Laboratory, Berkeley, California. LBNL-1005775
+133;REN;Run;Data Center;;;Average power capacity of one average data centre's  2S+ server.;kW;0.37;Berkeley Lab (306);Shehabi, A., Smith, S.J., Horner, N., Azevedo, I., Brown, R., Koomey, J., Masanet, E., Sartor, D., Herrlin, M., Lintner, W. (2016). United States Data Center Energy Usage Report. Lawrence Berkeley National Laboratory, Berkeley, California. LBNL-1005775
+134;REN;Run;Data Center;;;Average power capacity of one average data centre's 1S server.;kW;0.12;Berkeley Lab (306);Shehabi, A., Smith, S.J., Horner, N., Azevedo, I., Brown, R., Koomey, J., Masanet, E., Sartor, D., Herrlin, M., Lintner, W. (2016). United States Data Center Energy Usage Report. Lawrence Berkeley National Laboratory, Berkeley, California. LBNL-1005775
+135;REN;Run;Data Center;;;Power capacity;kW;1000;Source not specified;Source not specified
+136;REN;Run;Data Center;;;Surface ;m²;1000;Source not specified;Source not specified
+137;REN;Run;Data Center;;;PUE (Power Usage Effectiveness);/;2;Berkeley Lab (306);Shehabi, A., Smith, S.J., Horner, N., Azevedo, I., Brown, R., Koomey, J., Masanet, E., Sartor, D., Herrlin, M., Lintner, W. (2016). United States Data Center Energy Usage Report. Lawrence Berkeley National Laboratory, Berkeley, California. LBNL-1005775
+138;Residential Router Energy Consumption ;Run;Residential Router;France;Orange;Residential Router Power under their active mode (Modem only);W;9.1;GDS EcoInfo;https://ecoinfo.cnrs.fr
+139;Residential Router Energy Consumption ;Run;Residential Router;France;SFR;Residential Router Power under their active mode (Modem only);W;11.5;GDS EcoInfo;https://ecoinfo.cnrs.fr
+140;Residential Router Energy Consumption ;Run;Residential Router;France;Free;Residential Router Power under their active mode (Modem only);W;18;GDS EcoInfo;https://ecoinfo.cnrs.fr
+141;Residential Router Energy Consumption ;Run;Residential Router;France;Bouygues Télécom;Residential Router Power under their active mode (Modem only);W;11;GDS EcoInfo;https://ecoinfo.cnrs.fr
+142;Residential Router Energy Consumption ;Run;Residential Router;France;Orange;Residential Router Power under their active mode (Modem only);W;9;Les Numériques, Echos du Net; https://www.echosdunet.net/dossiers/facture-denergie-peut-on-reduire-consommation-electrique-sa-box-internet,  https://www.lesnumeriques.com/prix-consommation-electrique-a704/la-consommation-des-box-internet-ap549.html  
+144;Residential Router Energy Consumption ;Run;Residential Router;France;SFR;Residential Router Power under their active mode (Modem only);W;7.33;Les Numériques, Echos du Net; https://www.echosdunet.net/dossiers/facture-denergie-peut-on-reduire-consommation-electrique-sa-box-internet,  https://www.lesnumeriques.com/prix-consommation-electrique-a704/la-consommation-des-box-internet-ap549.html  
+145;Residential Router Energy Consumption ;Run;Residential Router;France;Free;Residential Router Power under their active mode (Modem only);W;12.25;Les Numériques, Echos du Net; https://www.echosdunet.net/dossiers/facture-denergie-peut-on-reduire-consommation-electrique-sa-box-internet,  https://www.lesnumeriques.com/prix-consommation-electrique-a704/la-consommation-des-box-internet-ap549.html  
+146;Residential Router Energy Consumption ;Run;Residential Router;France;Bouygues Télécom;Residential Router Power under their active mode (Modem only);W;11;Les Numériques, Echos du Net; https://www.echosdunet.net/dossiers/facture-denergie-peut-on-reduire-consommation-electrique-sa-box-internet,  https://www.lesnumeriques.com/prix-consommation-electrique-a704/la-consommation-des-box-internet-ap549.html  
+147;Residential Router Energy Consumption ;Run;Residential Router;France;;Residential Router Power under their active mode (Modem only);W;10.8;Data from industry;Data from industry
+148;Residential Router Energy Consumption ;Run;Residential Router;France;;Average Residential Router Power under their active mode (Modem only);;11;Calculated;138, 139, 140, 141, 142, 143, 144, 145, 146, 147
+149;1byte model;Run;Email;;;Time spent on the action;min;3;Hypothesis;
+150;1byte model;Run;Online Video (1080p);;;Time spent on the action;min;10;Hypothesis;
+151;1byte model;Run;Email;;;Data size;bytes;1000000;Hypothesis;
+152;1byte model;Run;Online Video (1080p);;;Data size;bytes;170000000;Hypothesis;
+153;Forecast;Run;FAN Wired;;;Energy Impact;Wh/byte;4.29E-07;Andrae (2015);Andrae, A.S.G., Edler, T. (2015). On Global Usage of Communication Technology: Trends to 2030. Challenges. 30 Apr. 2015.
+154;Forecast;Run;FAN WIFI;;;Energy Impact;Wh/byte;1.52E-07;Andrae (2015);Andrae, A.S.G., Edler, T. (2015). On Global Usage of Communication Technology: Trends to 2030. Challenges. 30 Apr. 2015.
+155;Forecast;Run;Mobile Network;;;Energy Impact;Wh/byte;8.84E-07;Andrae (2015);Andrae, A.S.G., Edler, T. (2015). On Global Usage of Communication Technology: Trends to 2030. Challenges. 30 Apr. 2015.
+156;Forecast;Run;Data Center;;;Energy Impact;kWh/byte;7.2E-11;Andrae (2015);Andrae, A.S.G., Edler, T. (2015). On Global Usage of Communication Technology: Trends to 2030. Challenges. 30 Apr. 2015.
+157;REN;Production;Gallium content;;;Mean concentration of ore in metal;%;2E-05;Oliver Vidal / Gérôme, Charlier (612) / Polak ;Vidal, O. (2018). Matières premières et énergie - Les enjeux de demain. ISTE Editions, 2018, 148 p. / Gérôme J-A., Charlier, C. (2017). Récupération de tantale et d'étain d'un minerai namibien par une table densimétrique à air. Revue Scientifique des Ingénieurs Indutriels, n°31, p. 229-255. / Polak, C. (2009). Métallurgie et recyclage du niobium et du tantale. Techniques de l'ingénieur - Métallurgie extractive. Editions T.I. n° m2365. 
+158;REN;Production;Indium content;;;Mean concentration of ore in metal;%;2E-05;Oliver Vidal / Gérôme, Charlier (612) / Polak ;Vidal, O. (2018). Matières premières et énergie - Les enjeux de demain. ISTE Editions, 2018, 148 p. / Gérôme J-A., Charlier, C. (2017). Récupération de tantale et d'étain d'un minerai namibien par une table densimétrique à air. Revue Scientifique des Ingénieurs Indutriels, n°31, p. 229-255. / Polak, C. (2009). Métallurgie et recyclage du niobium et du tantale. Techniques de l'ingénieur - Métallurgie extractive. Editions T.I. n° m2365. 
+159;REN;Production;Tantalum content;;;Mean concentration of ore in metal;%;0.005133333333333;Oliver Vidal / Gérôme, Charlier (612) / Polak ;Vidal, O. (2018). Matières premières et énergie - Les enjeux de demain. ISTE Editions, 2018, 148 p. / Gérôme J-A., Charlier, C. (2017). Récupération de tantale et d'étain d'un minerai namibien par une table densimétrique à air. Revue Scientifique des Ingénieurs Indutriels, n°31, p. 229-255. / Polak, C. (2009). Métallurgie et recyclage du niobium et du tantale. Techniques de l'ingénieur - Métallurgie extractive. Editions T.I. n° m2365. 
+160;REN;Production;Copper content;;;Mean concentration of ore in metal;%;0.013;Oliver Vidal / Gérôme, Charlier (612) / Polak ;Vidal, O. (2018). Matières premières et énergie - Les enjeux de demain. ISTE Editions, 2018, 148 p. / Gérôme J-A., Charlier, C. (2017). Récupération de tantale et d'étain d'un minerai namibien par une table densimétrique à air. Revue Scientifique des Ingénieurs Indutriels, n°31, p. 229-255. / Polak, C. (2009). Métallurgie et recyclage du niobium et du tantale. Techniques de l'ingénieur - Métallurgie extractive. Editions T.I. n° m2365. 
+161;REN;Production;Cobalt content;;;Mean concentration of ore in metal;%;0.002;Oliver Vidal / Gérôme, Charlier (612) / Polak ;Vidal, O. (2018). Matières premières et énergie - Les enjeux de demain. ISTE Editions, 2018, 148 p. / Gérôme J-A., Charlier, C. (2017). Récupération de tantale et d'étain d'un minerai namibien par une table densimétrique à air. Revue Scientifique des Ingénieurs Indutriels, n°31, p. 229-255. / Polak, C. (2009). Métallurgie et recyclage du niobium et du tantale. Techniques de l'ingénieur - Métallurgie extractive. Editions T.I. n° m2365. 
+162;REN;Production;Palladium content;;;Mean concentration of ore in metal;%;7.6E-06;Oliver Vidal / Gérôme, Charlier (612) / Polak ;Vidal, O. (2018). Matières premières et énergie - Les enjeux de demain. ISTE Editions, 2018, 148 p. / Gérôme J-A., Charlier, C. (2017). Récupération de tantale et d'étain d'un minerai namibien par une table densimétrique à air. Revue Scientifique des Ingénieurs Indutriels, n°31, p. 229-255. / Polak, C. (2009). Métallurgie et recyclage du niobium et du tantale. Techniques de l'ingénieur - Métallurgie extractive. Editions T.I. n° m2365. 
+163;REN;Production;Rock;;;Mean density of rock;m3/kg;3000;Mean order of magnitude;Mean order of magnitude
+164;REN;Production;Gallium content;;;Mass of rock extracted per unit mass of metal;kg_rock / kg_metal ;49999;Calculated;157
+165;REN;Production;Indium content;;;Mass of rock extracted per unit mass of metal;kg_rock / kg_metal ;49999;Calculated;158
+166;REN;Production;Tantalum content;;;Mass of rock extracted per unit mass of metal;kg_rock / kg_metal ;193.805194805195;Calculated;159
+167;REN;Production;Copper content;;;Mass of rock extracted per unit mass of metal;kg_rock / kg_metal ;75.9230769230769;Calculated;160
+168;REN;Production;Cobalt content;;;Mass of rock extracted per unit mass of metal;kg_rock / kg_metal ;499;Calculated;161
+169;REN;Production;Palladium content;;;Mass of rock extracted per unit mass of metal;kg_rock / kg_metal ;131577.947368421;Calculated;162
+170;REN;Production;Gallium content;;;Volume of rock extracted per unit mass of metal;m3_rock / kg_metal;16.6663333333333;Calculated;163, 164
+171;REN;Production;Indium content;;;Volume of rock extracted per unit mass of metal;m3_rock / kg_metal;16.6663333333333;Calculated;163, 165
+172;REN;Production;Tantalum content;;;Volume of rock extracted per unit mass of metal;m3_rock / kg_metal;0.064601731601732;Calculated;163, 166
+173;REN;Production;Copper content;;;Volume of rock extracted per unit mass of metal;m3_rock / kg_metal;0.025307692307692;Calculated;163, 167
+174;REN;Production;Cobalt content;;;Volume of rock extracted per unit mass of metal;m3_rock / kg_metal;0.166333333333333;Calculated;163, 168
+175;REN;Production;Palladium content;;;Volume of rock extracted per unit mass of metal;m3_rock / kg_metal;43.8593157894737;Calculated;163, 169
+176;1byte model;Run;Smartphone;;;Daily Use;h/day;2.5;Kantar TNS Study; https://www.tns-sofres.com/publications/les-millennials-passent-un-jour-par-semaine-sur-leur-smartphone, visited 01/10/2018.
+177;1byte model;Run;Laptop;;;Daily Use;h/day;8;Energy Star Requirements;" p. 16 : https://www.energystar.gov/products/office_equipment/computers/key_product_criteria, ""Computer Version 6.1Program Requirements """
+178;1byte model;Run;Smartphone;;;Yearly use;h/year;913.125;Calculated;176
+179;1byte model;Run;Laptop;;;Yearly use;h/year;2922;Calculated;177
+42;1byte model;Run;Smartphone;;;Energy Impact;kWh/min;0.000107688797627;Calculated;176, 122
+43;1byte model;Run;Laptop;;;Energy Impact;kWh/min;0.000319415925165;Calculated;177, 119
+180;1byte model;Run;Email, Smartphone, FAN Wired;;;Energy Impact;kWh;0.000824066392882;Calculated;149, 151, 42, 153, 156
+181;1byte model;Run;Email, Smartphone, FAN WIFI;;;Energy Impact;kWh;0.000547066392882;Calculated;149, 151, 42, 154, 156
+182;1byte model;Run;Email, Smartphone, Mobile Network ;;;Energy Impact;kWh;0.001279066392882;Calculated;149, 151, 42, 155, 156
+183;1byte model;Run;Email, Laptop, FAN Wired;;;Energy Impact;kWh;0.001459247775496;Calculated;149, 151, 43, 153, 156
+184;1byte model;Run;Email, Laptop, FAN WIFI;;;Energy Impact;kWh;0.001182247775496;Calculated;149, 151, 43, 154, 156
+185;1byte model;Run;Email, Laptop, Mobile Network ;;;Energy Impact;kWh;0.001914247775496;Calculated;149, 151, 43, 155, 156
+186;1byte model;Run;Online video (1080p), Smartphone, FAN Wired;;;Energy Impact;kWh;0.086246887976272;Calculated;150, 152, 42, 153, 156
+187;1byte model;Run;Online video (1080p), Smartphone, FAN WIFI;;;Energy Impact;kWh;0.039156887976272;Calculated;150, 152, 42, 154, 156
+188;1byte model;Run;Online video (1080p), Smartphone, Mobile Network ;;;Energy Impact;kWh;0.163596887976272;Calculated;150, 152, 42, 155, 156
+189;1byte model;Run;Online video (1080p), Laptop, FAN Wired;;;Energy Impact;kWh;0.088364159251654;Calculated;150, 152, 43, 153, 156
+190;1byte model;Run;Online video (1080p), Laptop, FAN WIFI;;;Energy Impact;kWh;0.041274159251654;Calculated;150, 152, 43, 154, 156
+191;1byte model;Run;Online video (1080p), Laptop, Mobile Network ;;;Energy Impact;kWh;0.165714159251654;Calculated;150, 152, 43, 155, 156
