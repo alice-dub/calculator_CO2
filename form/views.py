@@ -19,7 +19,7 @@ def accueil(request):
     context = {}
     return HttpResponse(template.render(context, request))
 
-def index(request):
+def video(request):
     try:
         appareil = request.POST['appareil']
         print(appareil)
@@ -30,14 +30,12 @@ def index(request):
         print(conso_appareil)
 
         connection = request.POST['connection']
-        print(connection)
         if connection == 'filaire':
             conso_network = Wired
         elif connection == 'wifi':
             conso_network = Wifi
         elif connection == 'mobile':
             conso_network == Mobile
-        print(conso_network)
 
         if request.POST['heure'] != '':
             heure = request.POST['heure']
@@ -48,24 +46,18 @@ def index(request):
             minute = request.POST['minute']
         else:
             minute = 0
-        print(heure)
-        print(minute)
 
         energie = (conso_appareil + Youtube * (Datacenter + conso_network))*(int(heure) * 60 + int(minute))
-        print(energie)
 
         energie_alt = (conso_appareil + Spotify * (Datacenter + conso_network))*(int(heure) * 60 + int(minute)) 
-        print(energie_alt)
         
         economie = (energie - energie_alt) * 100 / energie
 
-        print(connection, heure, minute)
-        template = loader.get_template('form/result_1.html')
+        template = loader.get_template('form/result.html')
         context = {'energie': round(energie,3), 'energie_alt': round(energie_alt,3), 'economie': round(economie,2)}
     except:
-        print('no connection')
     
-        template = loader.get_template('form/yt_vs_sd.html')
+        template = loader.get_template('form/video.html')
         context = {}
     
     return HttpResponse(template.render(context, request))
