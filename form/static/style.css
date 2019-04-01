@@ -46,11 +46,11 @@ h1,h2,h3{line-height:1.2}
     }
   }
   
-  
-  .site-title {
+  .header .site-title a {
     color: white;
   }
   
+
   .site-tagline {
     font-size: 1.125em;
     font-style: italic;

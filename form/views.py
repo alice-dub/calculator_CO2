@@ -15,7 +15,7 @@ Laptop = 3.2 * 10 ** -4 #kWh / min
 
 
 def accueil(request):
-    template = loader.get_template('form/accueil.html')
+    template = loader.get_template('accueil.html')
     context = {}
     return HttpResponse(template.render(context, request))
 
@@ -53,11 +53,21 @@ def video(request):
         
         economie = (energie - energie_alt) * 100 / energie
 
-        template = loader.get_template('form/result.html')
+        template = loader.get_template('result.html')
         context = {'energie': round(energie,3), 'energie_alt': round(energie_alt,3), 'economie': round(economie,2)}
     except:
     
         template = loader.get_template('form/video.html')
         context = {}
     
+    return HttpResponse(template.render(context, request))
+
+def augm_vie(request):
+    template = loader.get_template('accueil.html')
+    context = {}
+    return HttpResponse(template.render(context, request))
+
+def box(request):
+    template = loader.get_template('accueil.html')
+    context = {}
     return HttpResponse(template.render(context, request))
