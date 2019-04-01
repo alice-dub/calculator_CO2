@@ -68,6 +68,6 @@ def augm_vie(request):
     return HttpResponse(template.render(context, request))
 
 def box(request):
-    template = loader.get_template('accueil.html')
+    template = loader.get_template('box.html')
     context = {}
     return HttpResponse(template.render(context, request))
